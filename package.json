@@ -12,16 +12,22 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "@radix-ui/react-menubar": "^1.0.4",
     "@supabase/auth-helpers-react": "^0.3.1",
     "@supabase/auth-ui-react": "^0.2.8",
     "@supabase/supabase-js": "^2.38.1",
     "@types/node": "18.14.0",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
     "eslint": "8.34.0",
+    "lucide-react": "^0.287.0",
     "next": "13.5.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.7",
     "typescript": "4.9.5"
   },
   "devDependencies": {
